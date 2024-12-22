@@ -1,6 +1,6 @@
 # Osinachi Project Landing Page  
 
-**Website**: [osinachiproject.online](https://osinachiproject.online)  
+**Website**: [osinachiproject.online](http://osinachiproject.online)  
 **IP Address**: [http://13.61.25.145/](http://13.61.25.145/)  
 
 ---
